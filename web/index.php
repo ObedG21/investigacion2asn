@@ -7,7 +7,7 @@
 	$enlace = mysql_connect($servidor, $usuario, $clave, $baseDatos);
 
 		if (!$enlace) {
-		echo "Error al conectar al servidor";
+		echo "Error al conectar al servidor, FELIZ CUARENTENA";
 	}
 
 ?>
